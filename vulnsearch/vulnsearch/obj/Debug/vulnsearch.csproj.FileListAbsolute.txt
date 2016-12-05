@@ -20,3 +20,6 @@ C:\Users\tal\OneDrive\Documents\Visual Studio 2015\Projects\vulnsearch\vulnsearc
 C:\Users\tal\OneDrive\Documents\Visual Studio 2015\Projects\vulnsearch\vulnsearch\obj\Debug\vulnsearch.csproj.GenerateResource.Cache
 C:\Users\tal\OneDrive\Documents\Visual Studio 2015\Projects\vulnsearch\vulnsearch\obj\Debug\vulnsearch.exe
 C:\Users\tal\OneDrive\Documents\Visual Studio 2015\Projects\vulnsearch\vulnsearch\obj\Debug\vulnsearch.pdb
+C:\Users\tal\Source\Repos\NewRepo\vulnsearch\vulnsearch\bin\Debug\vulnsearch.exe.config
+C:\Users\tal\Source\Repos\NewRepo\vulnsearch\vulnsearch\obj\Debug\vulnsearch.exe
+C:\Users\tal\Source\Repos\NewRepo\vulnsearch\vulnsearch\obj\Debug\vulnsearch.pdb
