@@ -1,0 +1,17 @@
+﻿<Window x:Class="vulnsearch.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vulnsearch"
+        mc:Ignorable="d"
+        Title="Options" Height="314.409" Width="695.965" Opacity="0.985">
+    <Grid>
+        <Label x:Name="Project_Path" Content="Project Path" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="79" Height="27"/>
+        <Button x:Name="button" Content="Browse" HorizontalAlignment="Left" Margin="588,13,0,0" VerticalAlignment="Top" Width="60"/>
+        <Label x:Name="Project_Path_Copy" Content="Commands To Search" HorizontalAlignment="Left" Margin="10,55,0,0" VerticalAlignment="Top" Width="126" Height="27"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="141,9,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="429"/>
+        <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Height="23" Margin="141,55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="429"/>
+
+    </Grid>
+</Window>
